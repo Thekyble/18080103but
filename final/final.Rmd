@@ -34,7 +34,7 @@ abstract: |
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
 ```
 
-[^1]: 18080103, [Github Repo](https://github.com/Thekyble/butunleme.git)
+[^1]: 18080103, [Github Repo](https://github.com/Thekyble/18080103but.git)
 
 
 
